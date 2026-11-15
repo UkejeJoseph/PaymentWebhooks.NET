@@ -1,5 +1,3 @@
-> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
-
 # PaymentWebhooks.NET
 
 Verify inbound payment webhook signatures for Stripe, Paystack, Flutterwave, Shopify, GitHub, and Standard Webhooks, all through one interface. Constant-time comparison, timestamp-based replay protection, zero dependencies.
